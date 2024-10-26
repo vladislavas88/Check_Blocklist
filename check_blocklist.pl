@@ -2,7 +2,7 @@
 
 =pod
 
-=head1 Check modify time of squid ACL (blocklist) and reload squid 
+=head1 Check modify time of squid ACL (blocklist) and reload squid  
 #===============================================================================
 #
 #         FILE: check_blocklist.pl
